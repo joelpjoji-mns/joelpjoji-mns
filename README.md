@@ -2,16 +2,15 @@
 
 Welcome to my GitHub profile!
 
-### 📈 GitHub Stats
+### 📈 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joelpjoji-mns&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joelpjoji-mns&theme=dark)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelpjoji-mns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=prs_merged,reviews" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji-mns&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" width="49%"/>
-</p>
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelpjoji-mns&show_icons=true&theme=dark&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji-mns&theme=dark&layout=compact)
 
 ---
 
