@@ -2,15 +2,17 @@
 
 Welcome to my GitHub profile!
 
-### 📈 Contribution Streak
+### 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joelpjoji-mns&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joelpjoji-mns&theme=dark)](https://github.com/joelpjoji-mns)
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelpjoji-mns&show_icons=true&theme=dark&include_all_commits=true)
+[![joelpjoji-mns's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelpjoji-mns&show_icons=true&theme=dark)](https://github.com/joelpjoji-mns)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji-mns&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji-mns&theme=dark&layout=compact)](https://github.com/joelpjoji-mns)
+
+> **Note:** These stats primarily reflect public repositories. Most of my work is in private organization repositories.
 
 ---
 
