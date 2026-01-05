@@ -2,23 +2,34 @@
 
 Welcome to my GitHub profile!
 
-### 📈 GitHub Streak
+### 📈 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joelpjoji-mns&theme=dark)](https://github.com/joelpjoji-mns)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joelpjoji-mns&theme=radical&hide_border=true)](https://github.com/joelpjoji-mns)
 
 ### 📊 GitHub Stats
 
-[![joelpjoji-mns's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelpjoji-mns&show_icons=true&theme=dark)](https://github.com/joelpjoji-mns)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelpjoji-mns&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true)](https://github.com/joelpjoji-mns)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji-mns&theme=dark&layout=compact)](https://github.com/joelpjoji-mns)
-
-> **Note:** These stats primarily reflect public repositories. Most of my work is in private organization repositories.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji-mns&theme=radical&layout=compact&hide_border=true)](https://github.com/joelpjoji-mns)
 
 ---
 
 ### 💼 About My Work
 
-Most of my contributions are made within private organization repositories, so they won't be fully reflected in public GitHub stats. My work includes:
+Most of my contributions are in private organization repositories. To see detailed stats including private contributions:
+
+**Option 1: Enable Private Contributions**
+- Go to [Settings → Profile](https://github.com/settings/profile)
+- Check ✅ "Include private contributions on my profile"
+- This will show contribution counts (but not details) to third-party services
+
+**Option 2: Self-Host Stats** (Recommended for full private data)
+- Deploy your own instance of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)
+- Add your GitHub Personal Access Token to see all private data
+
+---
+
+### 💻 My Contributions Include
 
 - 🏢 Active contributor to private enterprise projects
 - 🔧 Backend development and system architecture
