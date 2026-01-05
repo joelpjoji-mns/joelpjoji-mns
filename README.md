@@ -2,9 +2,25 @@
 
 Welcome to my GitHub profile!
 
-### 📈 Contribution Stats
+### 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=joelpjoji-mns&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joelpjoji-mns&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joelpjoji-mns&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji-mns&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joelpjoji-mns&theme=tokyonight" alt="Productive Time" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joelpjoji-mns&theme=tokyonight" alt="Stats Card" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelpjoji-mns&theme=tokyonight" alt="Profile Details" width="98%"/>
+</p>
 
 ---
 
