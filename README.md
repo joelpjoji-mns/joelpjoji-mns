@@ -7,18 +7,13 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joelpjoji-mns&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"/>
 </a>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelpjoji-mns&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+### 🏆 GitHub Trophies
 
-### 🛠️ Tech Stack
+<img src="https://github-profile-trophy.vercel.app/?username=joelpjoji-mns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-1A1A1A?style=for-the-badge&logo=micronaut&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 📌 Contribution Summary
+
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=joelpjoji-mns&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
 
 ### 📊 GitHub Activity Graph
 
