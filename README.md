@@ -38,11 +38,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelpjoji-mns&theme=tokyonight" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joelpjoji-mns&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joelpjoji-mns&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joelpjoji-mns&theme=tokyonight&utcOffset=5.5" height="150"/>
-</p>
 
 ---
 
